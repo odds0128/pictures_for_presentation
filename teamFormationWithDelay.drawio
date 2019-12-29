@@ -1,9 +1,15 @@
-<mxfile host="www.draw.io" modified="2019-12-29T05:13:19.222Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="PLIK2WLfm7tHGKVnA_jG" version="12.4.7" type="github">
+<mxfile host="www.draw.io" modified="2019-12-29T05:15:32.932Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="0OX7B0rHb2q6ExtYhsQm" version="12.4.7" type="github">
   <diagram id="a9a2d16b-3a39-263e-1d7e-0bc55c1d89fc" name="Page-1">
     <mxGraphModel dx="2115" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
+        <mxCell id="_2S8Od3IwD4baRR7SAro-315" value="" style="endArrow=none;dashed=1;html=1;shadow=0;fillColor=none;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="506" y="1238.21" as="sourcePoint"/>
+            <mxPoint x="740" y="1241" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_2S8Od3IwD4baRR7SAro-278" value="" style="endArrow=none;dashed=1;html=1;shadow=0;fillColor=none;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="1172" as="sourcePoint"/>
@@ -443,7 +449,7 @@
           <mxGeometry x="568.6700000000001" y="1269" width="110" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="_2S8Od3IwD4baRR7SAro-286" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="607.5" y="1319.9999999999998" width="30" height="30" as="geometry"/>
+          <mxGeometry x="607.5" y="1368.9999999999998" width="30" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="_2S8Od3IwD4baRR7SAro-291" value="" style="endArrow=none;dashed=1;html=1;shadow=0;fillColor=none;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -510,6 +516,21 @@
         </mxCell>
         <mxCell id="_2S8Od3IwD4baRR7SAro-314" value="&lt;b&gt;&lt;i&gt;&lt;u&gt;dの信頼度を更新&lt;/u&gt;&lt;/i&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="78.31" y="1514.5" width="119" height="28.34" as="geometry"/>
+        </mxCell>
+        <mxCell id="_2S8Od3IwD4baRR7SAro-316" value="" style="endArrow=none;dashed=1;html=1;shadow=0;fillColor=none;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="506" y="1322.05" as="sourcePoint"/>
+            <mxPoint x="740" y="1325" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_2S8Od3IwD4baRR7SAro-317" value="" style="endArrow=classic;startArrow=classic;html=1;shadow=0;fillColor=none;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="1320" as="sourcePoint"/>
+            <mxPoint x="540.3299999999999" y="1239.9999999999998" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_2S8Od3IwD4baRR7SAro-318" value="&lt;div&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;1[tick]&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1262.05" width="60" height="30" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
